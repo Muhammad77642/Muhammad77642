@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Muhammad
-- 🌱 I’m currently learning Front-end Developing
 - 📫 How to reach me muhammadmustafa.77897@gmail.com
 
 
